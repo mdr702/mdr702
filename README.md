@@ -27,6 +27,127 @@
 - 🔒 اتوماسیون امنیت
 - 🤖 ساخت ربات تلگرام
 - ⚙️ CI/CD و DevOps
+-# محمدرضا محمدی | Mohammad Reza Mohammadi
+
+### Software Developer · Financial Systems · Data Analysis · Algorithmic Tools
+
+سلام! من **محمدرضا محمدی** هستم؛ برنامه‌نویس و توسعه‌دهنده نرم‌افزار با بیش از **۷ سال تجربه حرفه‌ای** در طراحی و پیاده‌سازی نرم‌افزارهای کاربردی، سیستم‌های مالی، ابزارهای تحلیل داده و راهکارهای الگوریتمی.
+
+به ساخت نرم‌افزارهایی علاقه‌مندم که علاوه بر عملکرد فنی، مسئله‌ای واقعی را حل کنند؛ از سیستم‌های حسابداری و مدیریت مالی گرفته تا ابزارهای تحلیل بازار و پردازش داده.
+
+---
+
+## About Me
+
+* 💻 بیش از ۷ سال تجربه در برنامه‌نویسی و توسعه نرم‌افزار
+* 🧩 تجربه در طراحی نرم‌افزارهای دسکتاپ و سیستم‌های مالی
+* 📊 علاقه‌مند به تحلیل داده، الگوریتم‌ها و سیستم‌های پیش‌بینی
+* 📈 تجربه در توسعه ابزارهای تحلیل بازارهای سرمایه
+* 🏗️ تمرکز بر طراحی ساختارهای نرم‌افزاری قابل توسعه و نگهداری
+* 🔍 علاقه‌مند به تحقیق، یادگیری فناوری‌های جدید و حل مسائل پیچیده
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=.net\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square\&logo=ruby\&logoColor=white)
+
+### Frameworks & Technologies
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=.net\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## Areas of Expertise
+
+* Software Architecture & Development
+* Desktop Application Development
+* Financial & Accounting Systems
+* Algorithmic Data Analysis
+* Market Analysis Tools
+* Data Processing & Predictive Systems
+* Mobile Application Development
+* Software Engineering & System Design
+
+---
+
+## Featured Projects
+
+### 🧾 Professional Accounting Software
+
+A financial software project designed to support accounting and financial management workflows.
+
+**Technologies:** C# · .NET · SQL Server
+
+**Key Features:**
+
+* Financial management
+* Advanced reporting
+* Structured data processing
+* Database-driven architecture
+* Integration capabilities
+
+> Project scale: More than 50,000 lines of code, according to the project's development records.
+
+---
+
+### 📈 Financial Market Analysis Tools
+
+Development of software tools for processing and analyzing financial market data.
+
+**Areas of Focus:**
+
+* Stock market data analysis
+* Cryptocurrency market analysis
+* Automated signal-analysis systems
+* Algorithmic trading research
+* Market data processing
+* Analytical and predictive tools
+
+> Any performance or accuracy figures should be interpreted according to the underlying dataset, evaluation methodology, time period and market conditions.
+
+---
+
+## Certifications & Networking
+
+* CompTIA Network+
+* Cisco CCNA
+* Cisco CCNP
+* Microsoft-related technical training and certifications
+
+---
+
+## GitHub Activity
+
+در این پروفایل، پروژه‌ها، نمونه‌کدها، ابزارهای تحقیقاتی و تجربه‌های توسعه نرم‌افزار منتشر می‌شوند.
+
+تمرکز اصلی من بر ساخت پروژه‌های کاربردی، یادگیری مستمر و توسعه راهکارهای نرم‌افزاری در حوزه‌های مالی، داده و فناوری است.
+
+---
+
+## Connect With Me
+
+📧 **Email:** [mohamadi.mr68@gmail.com](mailto:mohamadi.mr68@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/mrmohammadi](https://linkedin.com/in/mrmohammadi)
+
+💻 **GitHub:** [github.com/mdr702](https://github.com/mdr702)
+
+---
+
+### Let's Build Something Meaningful
+
+اگر به همکاری در پروژه‌های نرم‌افزاری، تحلیل داده، سیستم‌های مالی یا توسعه ابزارهای کاربردی علاقه‌مند هستید، می‌توانید از طریق لینک‌های بالا با من در ارتباط باشید.
 
 </div>
 
